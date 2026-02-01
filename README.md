@@ -1,4 +1,4 @@
-# sparkjava-war-example-Mirza.Baig
+# sparkjava-war-example-Mirza.Baig.Mirza
 Build war with maven and sparkjava framework-Mirza
 
 Steps:
