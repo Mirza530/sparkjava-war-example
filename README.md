@@ -1,4 +1,4 @@
-# sparkjava-war-example-Mirza.Baig.Mirza.loly.baig.muzniah
+# sparkjava-war-example-Mirza.Baig.Mirza.loly.baig.muzniah.mirza
 Build war with maven and sparkjava framework-Mirza.baig
 
 Steps:
