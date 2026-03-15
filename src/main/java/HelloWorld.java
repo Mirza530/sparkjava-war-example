@@ -4,7 +4,7 @@
 
  public class HelloWorld implements SparkApplication {
 	public static void main(String[] args) {
-		new HelloWorld().init();
+		new HelloWorld().init
 	}
 
 	@Override
